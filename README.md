@@ -7,3 +7,8 @@ A summary of the 3D camera data acquisition based on the camera's sdk
 ```
 /opt/Photoneo/PhoXiControl-1.4.1/API/examples
 ```
+2. currently founded two ways to connect to photoneo:
+
+a. cabled(wired) connection: IPV4, link-local only; IPV6, disabled
+
+b. wireless connection: TCP/IP, camera address
